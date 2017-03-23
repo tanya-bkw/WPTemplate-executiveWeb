@@ -10,6 +10,14 @@ Author URI: nasza strona www
 
 /* =WordPress Core
 -------------------------------------------------------------- */
+body {
+  background: black;
+  p {
+    color: silver;
+    font-family: "Arsenal", sans-serif;
+  }
+}
+
 .alignnone {
     margin: 5px 20px 20px 0;
 }
