@@ -1,18 +1,8 @@
 {
   "name": "cl1",
-  "description": "a package manager for JavaScript",
-  "main": "./lib/npm.js",
-  "authors": [
-    "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me)"
-  ],
-  "license": "Artistic-2.0",
-  "keywords": [
-    "install",
-    "modules",
-    "package",
-    "manager",
-    "package.json"
-  ],
+  "description": "",
+  "main": "gulpfile.js",
+  "license": "ISC",
   "homepage": "",
   "ignore": [
     "**/.*",
@@ -22,9 +12,9 @@
     "tests"
   ],
   "dependencies": {
-    "font-awesome": "^4.7.0",
-    "jquery": "^3.2.1",
+    "bootstrap": "bootstrap4#^3.3.7",
+    "jquery-ui": "^1.12.1",
     "jquery-slider": "*",
-    "jquery-ui": "^1.12.1"
+    "font-awesome": "^4.7.0"
   }
 }
